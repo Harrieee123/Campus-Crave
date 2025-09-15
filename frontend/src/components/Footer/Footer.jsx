@@ -28,12 +28,12 @@ const Footer = () => {
             <h2>GET IN TOUCH</h2>
             <ul>
                 <li>+1-212-456-7890</li>
-                <li>contact@doisbros.com</li>
+                <li>contact@CampusCrave.com</li>
             </ul>
         </div>
       </div>
       <hr />
-      <p className="footer-copyright">Copyright 2024 © DoisBros.com - All Right Reserved.</p>
+      <p className="footer-copyright">Copyright 2024 © CampusCrave.com - All Right Reserved.</p>
     </div>
   )
 }
